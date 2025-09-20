@@ -1,3 +1,7 @@
+# CVE-ID
+
+**CVE-2025-57685**
+
 # Information
 
 **Vendor of the products:** Shenzhen Bilian Electronic Limited Co., Ltd（LB-Link）
